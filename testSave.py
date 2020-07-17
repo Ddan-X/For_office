@@ -31,7 +31,7 @@ class jiankao:
     # 查阅监考老师课程表
     def searchT(self):
         try:
-            teacher = ['林颖', '曹明岩', '刘畅', '王媛']
+            teacher = ['林颖']
 
 
             print('请注意：程序不支持不接受不分析表格的横向合并，只支持接受竖向合并！！')
