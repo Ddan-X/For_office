@@ -251,7 +251,6 @@ class jiankao:
                 break
 
 
-jiankao1 = jiankao()
-# jiankao1.new()
-# jiankao1.searchT()
-jiankao1.main()
+if __name__ == '__main__':
+    jiankao1 = jiankao()
+    jiankao1.main()
